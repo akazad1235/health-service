@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="87px" height="76px" viewBox="0 0 87 76" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Corporate-Jobs---3.8.19" transform="translate(-943.000000, -1501.000000)" stroke-width="1.35">
+            <g id="Benefits" transform="translate(234.000000, 1088.000000)">
+                <g id="4" transform="translate(678.000000, 375.000000)">
+                    <g id="icon">
+                        <g id="Group-18" transform="translate(32.000000, 38.000000)">
+                            <g id="Group-5" transform="translate(19.000000, 21.753800)" stroke="#2AABE1" stroke-linejoin="round">
+                                <polyline id="Stroke-1" points="2.5926 0.4179 0.9816 14.3899 23.2056 53.0829 23.2056 14.9279"></polyline>
+                                <polyline id="Stroke-3" points="43.8192 0.4179 45.4302 14.3899 23.2062 53.0829 23.2062 14.9279"></polyline>
+                            </g>
+                            <polyline id="Stroke-6" stroke="#2AABE1" points="19.9813 36.1434 42.2063 22.1714 64.4303 36.1434"></polyline>
+                            <g id = "diamond-shine">
+                            <path d="M42.2059,0.6746 L42.1939,15.5426" id="Stroke-7" stroke="#EF4C01"></path>
+                            <path d="M52.5379,15.5428 L57.0619,3.3618" id="Stroke-9" stroke="#2AABE1"></path>
+                            <path d="M64.43,17.6932 L70.318,11.0652" id="Stroke-10" stroke="#EF4C01"></path>
+                            <path d="M31.3778,16.0809 L26.8538,3.8989" id="Stroke-11" stroke="#2AABE1"></path>
+                            <path d="M19.4857,18.2303 L13.5967,11.6023" id="Stroke-12" stroke="#EF4C01"></path>
+                        </g>
+                            <g id="Group-17" transform="translate(0.000000, 21.753800)" stroke="#194275">
+                                <path d="M0.0975,14.3896 L84.2905,14.3896" id="Stroke-13"></path>
+                                <polygon id="Stroke-15" points="0.0975 14.3896 42.2055 53.0826 84.2905 14.3896 63.1535 0.4176 21.5925 0.4176"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

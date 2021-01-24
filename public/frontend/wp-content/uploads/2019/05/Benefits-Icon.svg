@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="70px" viewBox="0 0 72 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 19</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Location-Details---3.8.19" transform="translate(-271.000000, -1000.000000)">
+            <g id="Group-19" transform="translate(271.000000, 1000.000000)">
+                <path d="M52.6025,16.6252 C57.2485,10.9982 58.5835,4.4702 55.5345,1.7612 C52.3555,-1.0628 45.6175,1.3302 40.4835,7.1072 C37.7235,10.2142 35.9885,13.6662 35.4685,16.6332" id="Stroke-1" stroke="#ED4E23" stroke-width="1.15" stroke-linejoin="round"></path>
+                <path d="M18.334,16.6252 C13.688,10.9982 12.353,4.4702 15.402,1.7612 C18.581,-1.0628 25.319,1.3302 30.454,7.1072 C33.214,10.2142 34.948,13.6662 35.468,16.6332" id="Stroke-3" stroke="#ED4E23" stroke-width="1.15" stroke-linejoin="round"></path>
+                <path d="M69.6992,29.4621 L1.7722,29.4621 C1.1142,29.4621 0.5752,28.9241 0.5752,28.2661 L0.5752,18.0841 C0.5752,17.4261 1.1142,16.8871 1.7722,16.8871 L69.6992,16.8871 C70.3572,16.8871 70.8962,17.4261 70.8962,18.0841 L70.8962,28.2661 C70.8962,28.9241 70.3572,29.4621 69.6992,29.4621 Z" id="Stroke-5" stroke="#2AABE1" stroke-width="1.15" stroke-linejoin="round"></path>
+                <path d="M64.4272,29.4621 L64.4272,65.9591 C64.4272,67.3331 63.3032,68.4571 61.9292,68.4571 L7.1242,68.4571 C5.7502,68.4571 4.6262,67.3331 4.6262,65.9591 L4.6262,29.4621" id="Stroke-7" stroke="#2AABE1" stroke-width="1.15" stroke-linejoin="round"></path>
+                <path d="M17.7749,34.4045 L10.6949,34.4045 C10.1759,34.4045 9.7519,34.8295 9.7519,35.3475 L9.7519,57.6825" id="Stroke-9" stroke="#194275" stroke-width="1.15"></path>
+                <path d="M51.3755,64.1116 L58.4555,64.1116 C58.9735,64.1116 59.3975,63.6876 59.3975,63.1686 L59.3975,40.8346" id="Stroke-11" stroke="#194275" stroke-width="1.15"></path>
+                <path d="M5.3535,23.175 L12.6695,23.175" id="Stroke-13" stroke="#194275" stroke-width="1.15"></path>
+                <path d="M59.3979,23.175 L66.7139,23.175" id="Stroke-15" stroke="#194275" stroke-width="1.15"></path>
+                <polyline id="Stroke-17" stroke="#2AABE1" stroke-width="1.171" stroke-linejoin="round" points="43.6279 16.8869 43.6279 54.0549 35.4679 48.9599 27.3089 54.0549 27.3089 16.8869"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

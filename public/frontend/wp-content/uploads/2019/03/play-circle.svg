@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="102px" height="100px" viewBox="0 0 102 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="0" y="0" width="92" height="90" rx="45"></rect>
+        <filter x="-7.1%" y="-7.2%" width="118.5%" height="118.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="2" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0313632246 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Corporate-Jobs---3.8.19" transform="translate(-862.000000, -544.000000)">
+            <g id="Banner" transform="translate(-21.000000, 7.000000)">
+                <g id="Banner-Box" transform="translate(426.000000, 518.000000)">
+                    <g id="Group" transform="translate(460.000000, 22.000000)">
+                        <g id="Rectangle-Copy-25">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#1A4175" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <polygon id="Triangle-Copy-5" fill="#FFFFFF" transform="translate(48.000000, 46.500000) rotate(-270.000000) translate(-48.000000, -46.500000) " points="48 36 61 57 35 57"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

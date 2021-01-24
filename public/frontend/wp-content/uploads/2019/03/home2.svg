@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg width="76px" height="66px" viewBox="0 0 76 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Homepage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Corporate-Jobs---3.8.19" transform="translate(-946.000000, -1224.000000)" stroke-width="1.4">
+            <g id="Benefits" transform="translate(234.000000, 1088.000000)">
+                <g id="2" transform="translate(676.000000, 95.000000)">
+                    <g id="icon" transform="translate(0.000000, 3.000000)">
+                        <g id="Group-13" transform="translate(36.000000, 38.000000)">
+                            <path d="M38.011,28.6305 L38.011,54.3195" id="Stroke-1" stroke="#2AABE1" stroke-linejoin="round"></path>
+                            <path d="M25.0091,41.4752 L50.6971,41.4752" id="Stroke-2" stroke="#2AABE1" stroke-linejoin="round"></path>
+                            <g id="Group-11" transform="translate(0.000000, 0.309900)">
+                                <path d="M0.6995,28.9338 L14.8245,18.1968" id="Stroke-3" stroke="#194275"></path>
+                                <polyline id="Stroke-5" stroke="#ED4E23" stroke-linejoin="round" points="14.8245 28.9338 14.8245 0.5708 30.9745 0.5708 30.9745 5.9188"></polyline>
+                                <polyline id="Stroke-7" stroke="#194275" points="6.7249 24.7317 6.7249 64.2997 69.7539 64.2997 69.7539 24.7317"></polyline>
+                                <polyline id="Stroke-9" stroke="#194275" points="24.1497 11.1077 38.0107 0.5707 75.0067 28.9337"></polyline>
+                            </g>
+                            <polygon id="Stroke-12" stroke="#194275" points="50.6976 54.3199 25.0096 54.3199 25.0096 41.4749 25.0096 28.6309 50.6976 28.6309 50.6976 41.4749"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
